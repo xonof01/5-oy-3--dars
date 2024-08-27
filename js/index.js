@@ -40,8 +40,8 @@
 // }
 // console.log(name(t, T));
 
-// 4 misol
-// 5 misol
+
+
 // 6 misol
 // RoboContest.uz da yangi bo'lgan kopchilik ba'zida jarima tizimi qanday ishlashini tushunishmaydi. Bunda jarima quyidagicha baholanadi: Har bir xato yuborilgan urinish uchun 5 daqiqa jarima hisoblanadi va to'g'ri javobni yuborgan vaqtini daqiqa sifatida yaxlitlab qo'shiladi. Aytaylik foydalanuvchi to'g'ri javob yuborishdan oldin 5 ta xato urinishga yo'l qo'ydi. To'g'ri javobni esa 21-daqiqada yubordi.Unutmang 21 daqiqa deganda misol uchun "20:SS" nazarda tutuiladi. Unda bu masala uchun jarima:
 
@@ -68,7 +68,7 @@
 // console.log(name(res, res1));
 
 
-// 7 misol
+
 // 8 misol
 
 // Sizga Selsiy shkalasi bo'yicha harorat beriladi. Uning Kelvin va Farangeyit shkalasi bo'yicha haroratini topuvchi dastur tuzing.
@@ -111,8 +111,7 @@
 
 // console.log(result);
 
-// 10 misol
-// 11 misol
+
 // 12 misol
 
 // Doskaga 1 dan n gacha sonlar yozib chiqildi. Ulardan faqat 3,5,7 ga karralilari qolib qolganlari o'chirib tashlandi. O'sha qolgan sonlar yig'indisini toping.
@@ -130,9 +129,9 @@
 //   return sum;
 // }
 // console.log(Sum(n));
+14- msala
 
-// 13 misol
-// 14 misol
+
 // 15 misol
 
 // Bilmasvoy ukalari Ali va Valining yoshini esidan chiqarib qo'ydi. Ali Bilmasvoyga Validan N yoshga kattaligini aytdi. Lekin Bilmasvoy ukalari/ni yoshini topa olmadi. Keyin Vali Alidan K marta kichikligni aytdi. Bilamsvoy vanihoyat ukalarining yoshini topdi. Siz ham topingchi!?
@@ -149,4 +148,4 @@
 // let res = arg(N, K);
 // console.log(res);
 
-// 16 misol
+
