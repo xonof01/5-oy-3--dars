@@ -38,7 +38,44 @@
 // function name(arg) {
 //   return (t + T) % 24;
 // }
-// console.log(name(t, T));
+// console.log(name(t, T));\
+// 4-savol
+
+// MINAB(A,B) - bu funksiyaga 2 ta musbat son jo'natilganda, ularni string turiga o'tkazilgandagi uzunliklarini kichigini qaytaradi.
+// Yaqinda Sardor Azimjonga 
+// MINAB(A,B)
+// MINAB(A,B) funksiyasini o'rgatgan edi, lekin Azimjon bu funksiyani qanday ishlatishga juda qiynalmoqda.
+// Shu sababdan Sardor endi unga bu funksiyani qo'llash uchun misol berishga qaror qildi. Sardor Azimjonga 
+// 𝑁
+// N musbat butun sonini beradi va 
+// 𝐴
+// ∗
+// 𝐵
+// =
+// 𝑁
+// A∗B=N shartni qanoatlantiradigan 
+// 𝐴
+// A va 
+// 𝐵
+// B juftliklarning har biri uchun 
+// MINAB(A,B)
+// MINAB(A,B) funksiyaning qiymatini hisoblab chiqqach ular orasidan eng kichigini topishni talab qilmoqda.
+// Azimjon bu funksiyani yaxshi o'rganmaganligi sababli siz dasturchilardan yordam so'rashga qaror qildi.
+
+// let num1 = -45;
+// let num2 = -445;
+// let arr1 = num1.toString();
+// let arr2 = num2.toString();
+
+// function func(arr1, arr2) {
+//     if (arr1.length < arr2.length) {
+//         console.log(arr1);
+//     }else{
+//         console.log(arr2);
+
+//     }
+// }
+// func(arr1, arr2);
 
 
 
@@ -66,6 +103,7 @@
 //     return Penalty;
 // }
 // console.log(name(res, res1));
+
 
 
 
@@ -110,6 +148,25 @@
 // let result = name(arg, arg1);
 
 // console.log(result);
+// 10-savol
+
+
+// function func(a, b) {
+//     return (a + b) / (a * b + 4);
+// }
+
+// function test(n) {
+//     let result = n;
+//     for (let i = n - 1; i >= 1; i--) {
+//         result = func(i, result);
+//     }
+//     return result;
+// }
+
+// let n = 5;
+// let natija = test(n);
+// console.log(natija);
+
 
 
 // 12 misol
@@ -129,8 +186,33 @@
 //   return sum;
 // }
 // console.log(Sum(n));
-14- msala
 
+// 13-savol
+
+// Bill Gates ajoyib ko'rsatuvga taklif qilindi. U jurnalistga eng boy odam ekanligini yana bir bor isbotlash maqsadida unga bir chek berib undagi ixtiyoriy raqamni o'zgartirishi mumkinligini va unga shu miqdordagi pulni hadya qilishini aytdi. Jurnalist imkoniyatdan maksimal foydalanmoqchi. Unga bunda yordam bering.
+
+
+
+// ?????
+
+// 14-savol
+
+// Jonibek matematika darsida faktorial darsini o'tdi va u shunday dastur yaratmoqchiki, uning dasturiga ikkita n va m sonlari kiritiladi va dastur n dan m gacha bo'lgan sonlar ko'paytmasida oxirida hosil bo'lgan nollar sonini chop etishi kerak. Ammo Jonibek sizning yordamingizga muhtoj.
+
+
+// let n = 5;
+// let m = 10;
+
+// function func(n, m) {
+//     let sum = 1;
+//     for (let i = n; i <= m; i++) {
+//         sum *= i;
+//     }
+//     return sum;
+// }
+
+// let result = func(n, m);
+// console.log(result);
 
 // 15 misol
 
@@ -147,5 +229,22 @@
 // }
 // let res = arg(N, K);
 // console.log(res);
+
+// 16-savol
+// function F(n) {
+//     return 1 + 3 * n + 3 * n * n;
+// }
+
+// function sumF(n) {
+//     let sum = 0;
+//     for (let i = 0; i <= n; i++) {
+//         sum += F(i);
+//     }
+//     return sum;
+// }
+
+// let N = 5; 
+// let result = sumF(N);
+// console.log(result);
 
 
